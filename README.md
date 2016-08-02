@@ -14,8 +14,8 @@ The script does make use of go routines to resolv hostnames to ip addresses.
 
 The script depends heavily on the performance of your resolver(s).
 
-All .go files are covered by the GNU GPL 3.0
+All .go files are covered by the GNU GPL 3.0 (see file [LICENSE](https://github.com/ulrichwisser/nsstat/blob/master/LICENSE))
 
 All .zone files are derived from .SE zone data which
 was aquired through [IIS Zonedata](https://zonedata.iis.se) and is
-covered by a Creative Commons Attribution 4.0 International license.
+covered by the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  license.
